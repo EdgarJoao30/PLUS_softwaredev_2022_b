@@ -1,4 +1,4 @@
-# PLUS_softwaredev_2022_b
+# Basics of Sotfware Development class @PLUS
 This is a test
 
 ```
