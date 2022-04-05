@@ -1,4 +1,4 @@
-# Basics of Software Development lecture @PLUS
+# Basics of Software Development lecture [@PLUS](https://www.plus.ac.at/)
 
 ## Creating a Python environment
 We can use conda to create and manage Python environments. For this, we have to install Anaconda or Miniconda, follow the official [documentation](https://www.anaconda.com/products/distribution) to make the installation. 
